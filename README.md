@@ -24,26 +24,6 @@ Used Tech Stack
 1. Django
 2. Sqlite
 
-### Screenshots
-
-## Home page
-<img src="screenshots/one.png" height="800">
-
-## Resume template page
-<img src="screenshots/six.png" height="800">
-<img src="screenshots/seven.png" height="800">
-
-## Login page
-<img src="screenshots/five.png" height="800">
-
-## Add new position as employer
-<img src="screenshots/two.png" height="800">
-
-## Job details
-<img src="screenshots/three.png" height="800">
-
-## Swagger API
-<img src="screenshots/four.png" height="800">
 
 <a name="local-venv"></a>
 ### Local environment
